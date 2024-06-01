@@ -56,7 +56,14 @@ main {
   height: 100%;
   object-fit: cover;
   border-top-left-radius: var(--borderRadius);
+  border-top-right-radius: 0;
   border-bottom-left-radius: var(--borderRadius);
+}
+@media screen and (max-width: 375px) {
+  .Card-image img {
+    border-bottom-left-radius: 0;
+    border-top-right-radius: var(--borderRadius);
+  }
 }
 .Card-information {
   padding: 25px;
