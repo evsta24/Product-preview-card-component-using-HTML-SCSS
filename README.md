@@ -22,9 +22,7 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-
-
-
+![image](https://github.com/evsta24/Product-preview-card-component-using-HTML-SCSS/assets/159118157/addf3574-f3e4-41e0-be9c-be82b97613e9)
 
 ## My process
 
